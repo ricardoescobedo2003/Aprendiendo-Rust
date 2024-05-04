@@ -1,0 +1,4 @@
+cargo new para crear un nuevo proyecto
+cargo buil para construir mi proyecto
+cargo run para construir y ejecutar un proyecto
+cargo check para correr el codigo sin crear binarios con el objetivo de corroborar errores

@@ -1,0 +1,3 @@
+cargo build construccion del proyecto 
+cargo new hello_cargo creacion de un proyecto con cargo
+
